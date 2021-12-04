@@ -2,7 +2,7 @@
 
 
 ## About
-This simple python script is mearnt to convert strings to binary digits.  
+This is a simple python script to convert strings to binary digits.  
 All characters are assumed to be strings.
 Some special characters not supported.
 
