@@ -3,8 +3,8 @@
 
 ## About
 This simple python script is mearnt to convert strings to binary digits.  
-* All characters are assumed to be strings.
-* some special characters not supported.
+All characters are assumed to be strings.
+Some special characters not supported.
 
 
     
@@ -28,7 +28,7 @@ This simple python script is mearnt to convert strings to binary digits.
 ## Download and Installation
 
 To install, choose one of the following options:
-* Clone the repo: `git clone https://github.com/d-captainkenya/portservicename)`
+* Clone the repo: `git clone https://github.com/d-captainkenya/stringstobinary)`
 * [Fork, Clone, or Download on GitHub](https://github.com/d-captainkenya/stringstobinary)
 
 
